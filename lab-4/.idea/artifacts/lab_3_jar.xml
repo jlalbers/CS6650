@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact name="lab-3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab_3_jar</output-path>
+    <root id="root">
+      <element id="archive" name="lab-3.jar">
+        <element id="module-output" name="lab-3" />
+      </element>
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents.client5:httpclient5:5.1.3" />
+      <element id="library" level="project" name="Maven: org.codehaus.plexus:plexus-utils:1.1" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents.core5:httpcore5-h2:5.1.3" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+      <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents.core5:httpcore5:5.1.3" />
+      <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.15" />
+    </root>
+  </artifact>
+</component>
