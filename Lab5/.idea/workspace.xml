@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3afaa75-d105-48d2-8346-fe079ceacfd1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/ActiveCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/SocketClientMultithreaded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/SocketClientThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/SocketHandlerRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/SocketServerThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tutorial/helloworld1/Recv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tutorial/helloworld1/Send.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tutorial/publishsubscribe3/EmitLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tutorial/publishsubscribe3/ReceiveLogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tutorial/workqueues2/NewTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tutorial/workqueues2/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/client/SocketClientMultithreaded.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/client/SocketClientMultithreaded.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/client/SocketClientMultithreaded.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/SocketClientMultithreaded.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +103,7 @@
     <configuration name="SocketClientMultithreaded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="client.SocketClientMultithreaded" />
       <module name="Lab5" />
+      <option name="PROGRAM_PARAMETERS" value="100.26.112.236 12031" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="client.*" />
@@ -183,7 +169,7 @@
       <updated>1645505080307</updated>
       <workItem from="1645505081462" duration="608000" />
       <workItem from="1645550792026" duration="17216000" />
-      <workItem from="1645676379420" duration="910000" />
+      <workItem from="1645676379420" duration="3926000" />
     </task>
     <servers />
   </component>

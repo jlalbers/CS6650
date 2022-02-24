@@ -14,6 +14,7 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
+import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -35,7 +36,7 @@ public class SocketClientMultithreaded {
         }
         //initialization of barrier for the threads
         barrier = new CyclicBarrier(MAX_THREADS+1);
-
+        long start = System.nanoTime();
         //create and start MAX_THREADS SocketClientThread
         for (int i=0; i< MAX_THREADS; i++){
             new SocketClientThread(hostName, port, barrier).start();
@@ -43,6 +44,8 @@ public class SocketClientMultithreaded {
 
         //wait for all threads to complete
         barrier.await();
+        System.out.println("Wall time: for " + MAX_THREADS + ": " + TimeUnit.MILLISECONDS.convert(System.nanoTime() - start,
+                TimeUnit.NANOSECONDS) + " ms");
 
         System.out.println("Terminating ....");
 
