@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3afaa75-d105-48d2-8346-fe079ceacfd1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/ActiveCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/SocketClientMultithreaded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/SocketClientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/SocketHandlerRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/SocketServerThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tutorial/helloworld1/Recv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tutorial/helloworld1/Send.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tutorial/publishsubscribe3/EmitLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tutorial/publishsubscribe3/ReceiveLogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tutorial/workqueues2/NewTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tutorial/workqueues2/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25S0FUsf6edTgfziS5yTOovrwjP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tutorial" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SocketClientMultithreaded">
+    <configuration name="EmitLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutorial.publishsubscribe3.EmitLog" />
+      <module name="Lab5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutorial.publishsubscribe3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewTask" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutorial.workqueues2.NewTask" />
+      <module name="Lab5" />
+      <option name="PROGRAM_PARAMETERS" value="one two three" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutorial.helloworld1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReceiveLogs" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutorial.publishsubscribe3.ReceiveLogs" />
+      <module name="Lab5" />
+      <option name="PROGRAM_PARAMETERS" value="&gt; logs_from_rabbit.log" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutorial.publishsubscribe3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketClientMultithreaded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.SocketClientMultithreaded" />
+      <module name="Lab5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketServerThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.SocketServerThreadPool" />
+      <module name="Lab5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Worker" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tutorial.workqueues2.Worker" />
+      <module name="Lab5" />
+      <option name="PROGRAM_PARAMETERS" value="Task..." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tutorial.helloworld1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ReceiveLogs" />
+      <item itemvalue="Application.Worker" />
+      <item itemvalue="Application.NewTask" />
+      <item itemvalue="Application.EmitLog" />
+      <item itemvalue="Application.SocketServerThreadPool" />
+      <item itemvalue="Application.SocketClientMultithreaded" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SocketClientMultithreaded" />
+        <item itemvalue="Application.SocketServerThreadPool" />
+        <item itemvalue="Application.EmitLog" />
+        <item itemvalue="Application.NewTask" />
+        <item itemvalue="Application.Worker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3afaa75-d105-48d2-8346-fe079ceacfd1" name="Changes" comment="" />
+      <created>1645505080307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645505080307</updated>
+      <workItem from="1645505081462" duration="608000" />
+      <workItem from="1645550792026" duration="17216000" />
+      <workItem from="1645676379420" duration="910000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
