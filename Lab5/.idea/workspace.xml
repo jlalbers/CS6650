@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a3afaa75-d105-48d2-8346-fe079ceacfd1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/client/SocketClientMultithreaded.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/client/SocketClientMultithreaded.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/client/SocketClientMultithreaded.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/SocketClientMultithreaded.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +102,7 @@
     <configuration name="SocketClientMultithreaded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="client.SocketClientMultithreaded" />
       <module name="Lab5" />
-      <option name="PROGRAM_PARAMETERS" value="100.26.112.236 12031" />
+      <option name="PROGRAM_PARAMETERS" value="54.173.225.74 12031" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="client.*" />
@@ -169,7 +168,8 @@
       <updated>1645505080307</updated>
       <workItem from="1645505081462" duration="608000" />
       <workItem from="1645550792026" duration="17216000" />
-      <workItem from="1645676379420" duration="3926000" />
+      <workItem from="1645676379420" duration="11813000" />
+      <workItem from="1645993832294" duration="598000" />
     </task>
     <servers />
   </component>
