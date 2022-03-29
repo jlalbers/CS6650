@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3afaa75-d105-48d2-8346-fe079ceacfd1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/client/SocketClientMultithreaded.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/client/SocketClientMultithreaded.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-tutorials/Send.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbit-tutorials/Send.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbit-tutorials/Send.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbit-tutorials/Send.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,6 +170,7 @@
       <workItem from="1645550792026" duration="17216000" />
       <workItem from="1645676379420" duration="11813000" />
       <workItem from="1645993832294" duration="598000" />
+      <workItem from="1647843640743" duration="15000" />
     </task>
     <servers />
   </component>
